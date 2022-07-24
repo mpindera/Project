@@ -1,0 +1,1 @@
+Program działa po uruchomieniu pliku Main
